@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://mdinargul14.github.io/dinargul/sitemap.xml
